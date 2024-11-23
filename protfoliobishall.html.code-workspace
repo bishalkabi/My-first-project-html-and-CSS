@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desktop/new game"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bishall.html",
+		"liveServer.settings.port": 5501
+	}
+}
